@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "clean-app",
+    "slug": "clean-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "clean-app"
+}
